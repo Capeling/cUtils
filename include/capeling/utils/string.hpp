@@ -3,7 +3,7 @@
 #include <string>
 #include <vector>
 
-namespace cUtils::string {
+namespace capeling::utils::string {
     std::string toLowercase(const std::string_view str);
     std::string toUppercase(const std::string_view str);
 
